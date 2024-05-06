@@ -16,7 +16,8 @@ Technical privacy systems define what is being protected, from who, and under wh
 [Afari Darfoor](https://afaridarfoor.my.canva.site/about), (MSc)
 
 <h3>Research Assistants</h3>
-Jialiang (Chuck) Yan, (UGRA)
+
+[Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA)
 
 Farishta Kabir
 
