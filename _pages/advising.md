@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h1> Advising</h1>
-I am currently seeking interested graduate students to start in September 2024. In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols. 
+I am currently considering graduate students to start in September 2025. In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols. 
 
 <h1>Frequently Asked Questions</h1>
 <ul>
