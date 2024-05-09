@@ -19,7 +19,7 @@ Technical privacy systems define what is being protected, from who, and under wh
 
 [Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA)
 
-Farishta Kabir
+[Farishta Kabir](https://farishta.my.canva.site/)
 
 <!--<h3>Alumni</h3>-->
  
