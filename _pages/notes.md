@@ -21,3 +21,6 @@ If something exists as a list item, but doesn't have a link yet, I just haven't 
   <li><a href="https://bkacsmar.github.io//expectationsforstudents/">Expectations during your degree</a></li>
   <li>Applying to Grad School</li>
 </ul>
+
+
+<!--Tell them about bibtex in google scholar/>
