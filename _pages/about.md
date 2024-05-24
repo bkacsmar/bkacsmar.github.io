@@ -43,6 +43,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 <b>Upcoming and Recent Talks</b><br/>
 May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Canada.
+<a href="https://bkacsmar.github.io/files/2024_Amii_upperbound.pdf">(slides)</a>
 
 November 2023, "Comprehension from Chaos: Towards Informed Consent for Private Computation", ACM CCS 2023, Copenhagen, Denmark.
 
