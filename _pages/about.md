@@ -22,7 +22,7 @@ Prior to joining University of Alberta, I received my PhD in Computer Science an
 <!-- I am advised by [Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/) and I am a member of the  [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca/) lab. -->
 <!--  My masters thesis was on combinatorial cryptography, advised by [Doug Stinson](https://cs.uwaterloo.ca/~dstinson/). -->
 
-<br/>
+
 
 <b>Selected Service</b>
 <ul style="margin-top:-25px; margin-left:-20px;">
@@ -37,7 +37,7 @@ Prior to joining University of Alberta, I received my PhD in Computer Science an
 <!-- 
 Reminder you can use the PoPETs nomination form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nominate yourself or someone else as a PETs Artifact committee member, PC member, or external reviewer.  -->
 
-<br/>
+
 
 <b>Upcoming and Recent Talks</b><br/>
 May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Canada.
@@ -61,7 +61,7 @@ May 2023 "Beyond Data Privacy for Machine Learning", 2023 Upper Bound Academic S
 May 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 2023 MAA Seaway Section, Waterloo, Ontario.
 <!--[Slides](https://bkacsmar.github.io/files/Math_ed_colloqium_2023.pdf)  -->
 
-<br/>
+
 
 <b>Erdös Number Trivia</b><br/>
 You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project">here</a>, about what is an Erdös number and why the collaboration graphs are (mathematically) interesting. As a fun note, I have an Erdös number of two. A co-author of Paul Erdös is said to have an Erdös number of one, and there are 511 people with this number. One of them, Douglas R. Stinson, is a <a href="https://cs.uwaterloo.ca/~dstinson/coauthors.html">collaborator</a> of mine, which is why I have a two. Interestingly, your number (distance from Erdös via a collaboration graph), is likely smaller than you may expect.  
