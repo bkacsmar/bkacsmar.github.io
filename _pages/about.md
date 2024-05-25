@@ -30,6 +30,7 @@ My research interests are broadly in the development and evaluation of human-cen
 
 <b>Selected Service</b>
 <ul style="margin-top:-25px; margin-left:-20px;">
+  <li> IEEE Security and Privacy Program Committee 2025</li>
   <li> PoPETs Program Committee 2023, 2024, 2025</li>
   <li> ACM CCS Program Committee 2023, 2024</li>
   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>
@@ -43,13 +44,15 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 <b>Upcoming and Recent Talks</b><br/>
 May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Canada.
-<a href="https://bkacsmar.github.io/files/2024_Amii_upperbound.pdf">(slides)</a>
+<a href="https://bkacsmar.github.io/files/2024_Amii_upperbound.pdf">(Slides)</a>
 
+
+<!-- 
 November 2023, "Comprehension from Chaos: Towards Informed Consent for Private Computation", ACM CCS 2023, Copenhagen, Denmark.
 
 October 2023, "Privacy and AI in Society", Amii DevCon Keynote, Edmonton, Alberta. 
 
-<!-- August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.-->
+August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.-->
 
 <!-- 
 July 2023 "Human-Centred Privacy in Machine Learning", ZISC Seminar Series, Zurich, Switzerland. 
