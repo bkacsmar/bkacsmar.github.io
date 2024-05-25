@@ -17,14 +17,6 @@ My research interests are broadly in the development and evaluation of human-cen
 Prior to joining University of Alberta, I received my PhD in Computer Science and my Masters of Mathematics from the University of Waterloo.
 
 
-<!--<p><b>Looking for CMPUT 466/566 - Winter 2024 term?</b> <a href="https://bkacsmar.github.io//teaching/">Try here</a> </p>-->
-<!--
-<p><b>Looking for CMPUT 626 - A2 Fall term?</b> <a href="https://bkacsmar.github.io//MLandPracticalPrivacy/">Try here</a> </p>-->
-
-<!-- 
- <p align="right">
-<img src="/files/research_overview_web.png" alt="Research Overview" width="400"> 
- </p> -->
 
 
 <!-- I am advised by [Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/) and I am a member of the  [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca/) lab. -->
