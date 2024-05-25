@@ -15,6 +15,8 @@ My research interests are broadly in the development and evaluation of human-cen
 
 
 Prior to joining University of Alberta, I received my PhD in Computer Science and my Masters of Mathematics from the University of Waterloo.
+
+
 <!--<p><b>Looking for CMPUT 466/566 - Winter 2024 term?</b> <a href="https://bkacsmar.github.io//teaching/">Try here</a> </p>-->
 <!--
 <p><b>Looking for CMPUT 626 - A2 Fall term?</b> <a href="https://bkacsmar.github.io//MLandPracticalPrivacy/">Try here</a> </p>-->
