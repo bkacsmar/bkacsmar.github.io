@@ -26,7 +26,7 @@ Prior to joining University of Alberta, I received my PhD in Computer Science an
 
 <b>Selected Service</b>
 <ul style="margin-top:-25px; margin-left:-20px;">
-  <li> IEEE Security and Privacy Program Committee 2025</li>
+  <li> IEEE Symposium on Security and Privacy Program Committee 2025</li>
   <li> PoPETs Program Committee 2023, 2024, 2025</li>
   <li> ACM CCS Program Committee 2023, 2024</li>
   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>
