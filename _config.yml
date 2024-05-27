@@ -184,10 +184,10 @@ collections:
   advising:
     output: true
     permalink: /:collection/:path/
-  notes:
+ pups:
     output: true
     permalink: /:collection/:path/
- pups:
+ notes:
     output: true
     permalink: /:collection/:path/
     
@@ -251,6 +251,15 @@ defaults:
   - scope:
       path: ""
       type: pups
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   # _notes
+  - scope:
+      path: ""
+      type: notes
     values:
       layout: single
       author_profile: true
