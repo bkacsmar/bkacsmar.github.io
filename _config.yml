@@ -184,10 +184,13 @@ collections:
   advising:
     output: true
     permalink: /:collection/:path/
-  pups:
+  notes:
     output: true
     permalink: /:collection/:path/
-
+ pups:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
