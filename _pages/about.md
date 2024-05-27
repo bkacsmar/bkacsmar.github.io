@@ -10,11 +10,11 @@ redirect_from:
 
 <b>About</b><br/>
 
-I am an Assistant Professor at the <a href="https://apps.ualberta.ca/directory/person/kacsmar">University of Alberta</a> and an Alberta machine intelligence institute (<a href="https://www.amii.ca/">Amii</a>) fellow. 
-My research interests are broadly in the development and evaluation of human-centered technical privacy solutions; including the use of privacy mechanisms for data analysis and AI. I aim to develop human-centered privacy technology through the parallel study of technical solutions for private computation (privacy in machine learning and private set intersections) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
+Bailey Kacsmar is an Assistant Professor at the <a href="https://apps.ualberta.ca/directory/person/kacsmar">University of Alberta</a> and an Alberta machine intelligence institute (<a href="https://www.amii.ca/">Amii</a>) fellow. 
+Her research interests are broadly in the development and evaluation of human-centered technical privacy solutions; including the use of privacy mechanisms for data analysis and AI. She aims to develop human-centered privacy technology through the parallel study of technical solutions for private computation (privacy in machine learning and private set intersections) alongside the corresponding user perceptions, concerns, and comprehension of these developments. 
 
 
-Prior to joining University of Alberta, I received my PhD in Computer Science and my Masters of Mathematics from the University of Waterloo.
+Prior to joining University of Alberta, she received my PhD in Computer Science and my Masters of Mathematics from the University of Waterloo.
 
 
 
