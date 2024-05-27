@@ -23,5 +23,4 @@ If something exists as a list item, but doesn't have a link yet, I just haven't 
   <li>Applying to Grad School</li>
 </ul>
 
-
-<!--Tell them about bibtex in google scholar/>
+ 
