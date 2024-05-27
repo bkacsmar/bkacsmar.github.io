@@ -105,7 +105,7 @@ author:
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       : 
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -184,10 +184,10 @@ collections:
   advising:
     output: true
     permalink: /:collection/:path/
- pups:
+  pups:
     output: true
     permalink: /:collection/:path/
-    
+
 # Defaults
 defaults:
   # _posts
@@ -326,4 +326,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
