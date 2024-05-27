@@ -13,6 +13,8 @@ main:
   - title: "PUPS"
     url: /pups/
 
+  - title: "Notes"
+    url: /notes/
     
   - title: "Calendar"
     url: /calendar/
