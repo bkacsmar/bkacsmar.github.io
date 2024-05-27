@@ -187,9 +187,6 @@ collections:
  pups:
     output: true
     permalink: /:collection/:path/
- notes:
-    output: true
-    permalink: /:collection/:path/
     
 # Defaults
 defaults:
@@ -251,15 +248,6 @@ defaults:
   - scope:
       path: ""
       type: pups
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-   # _notes
-  - scope:
-      path: ""
-      type: notes
     values:
       layout: single
       author_profile: true
