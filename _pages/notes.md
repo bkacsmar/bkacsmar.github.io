@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2>Notes</h2>
-If something exists as a list item, but doesn't have a link yet, I just haven't written it yet. In general, this is very much under construction, and so even the linked ones are incomplete and in progress. However, as a few are already being found to be useful, I have made this more visible on my page anyway. 
+If something exists as a list item, but doesn't have a link yet, I just haven't written it yet. In general, this set of pages is very much under construction, and thus even the linked ones are incomplete and in progress. However, as a few are already being found to be useful, I have made this more visible on my page anyway. 
 
 <h3>Research</h3>
 <ul>
