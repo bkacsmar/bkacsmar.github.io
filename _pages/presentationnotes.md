@@ -29,6 +29,12 @@ Some of these you may consider more of a stylistic choice rather than strongly a
 </ul>
 
 
+<h2>The Last Slide</h2>
+<ul>
+  <li>Has key points/takeaways/conclusion: Two main reasons for this. (1) It reminds people what you spoke about as the question period occurs and (2) It may prompt new questions from people because they can read the summary and it sparks something they didn't quite understand or might find interesting. In addition to these two points, depending on how long the question period is, this slide might be up for awhile, why not have it emphasize why your work is interesting!!</li>
+  <li>Has your name and your talk title (somewhere): I tend to put my name in a footer at the bottom of my slide, but you can do whatever you like. One nice reason to do this is sometimes at multi-track conferences someone might be hopping between tracks and miss your talk as they come there for the next one. They see your nice summary points and think "Oh! That's interesting! Who's work is this? What is the title of the paper?" You want this informaiton easily visible. </li>
+  <li>(Optional) Thank you/Questions: Having one of these popup alongside your key points when you are done helps signal to your audiene that the talk is over. How you do this is largely up to you, but I do advise on keeping the key points about your talk still on the slide even when you have the thank you/questions component appear. </li>
+</ul>
 
 
 <h2>Selection of other advice links</h2>
