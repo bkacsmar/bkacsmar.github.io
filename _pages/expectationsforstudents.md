@@ -7,7 +7,7 @@ author_profile: true
 <h2>Expectations for Students</h2>
 
 
-First of all, understand that this is directed at security and privacy researchers, in particular for those in my group or interested in joining it. Therefore, while some of the statements may generalize, not all of them will. Therefore, it is important that you recognize that different areas have different types of work; which relates to whether they produce theorems/proofs, empirical (algorithmic) evaluation, or human empirical work. Further, different institutions and even different advisors within the same institution, may have very different expectations. 
+First of all, understand that this is most likely to be relevant only if you are in the areas I have or a mworking in. So, security and privacy researchers (primarily intersecting with ML/Data analysis) and in particular this is for those in my group or interested in joining it. Therefore, while some of the statements may generalize, not all of them will. Therefore, it is important that you recognize that different areas have different types of work; which relates to whether they produce theorems/proofs, empirical (algorithmic) evaluation, or human empirical work. Further, different institutions and even different advisors within the same institution, may have very different expectations. 
 
 <h3>Most Graduate Students</h3>
 <b>Year One:</b>
