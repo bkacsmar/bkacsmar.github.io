@@ -4,8 +4,10 @@ permalink: /pups/
 author_profile: true
 ---
 
-<h1> PUPS: Practical Usable Privacy and Security Lab</h1>
-Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the entities who can be effected by whether their data is used in such systems.
+<h1> PUPS: Practical Usable Privacy and Security Research Lab</h1>
+PUPS is a group of researchers at the University of Alberta organized by Bailey Kacsmar. The work in this group intersects with digital privacy, security, machine larning, and HCI.
+
+Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the people who can be effected by whether their data is used in such systems.
 
 <h2>People in PUPS</h2>
 
