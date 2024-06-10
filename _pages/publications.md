@@ -6,7 +6,7 @@ author_profile: true
 
 <h2>Publications</h2>
 
-Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;Practically Efficient Private Set Intersection in the Unbalanced Setting&quot;. Accepted. To appear at The 33rd USENIX Security Symposium (USENIX Security 2024)
+Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;PEPSI: Practically Efficient Private Set Intersection in the Unbalanced Setting&quot;. Accepted. To appear at The 33rd USENIX Security Symposium (USENIX Security 2024)
 
 Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimianghazani, <b>Bailey Kacsmar</b>, Xinda Li, Nils Lukas, Rasoul Akhavan Mahdavi, Simon Oya, Ehsan Amjadian and Florian Kerschbaum. &quot;Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions&quot;. To appear at The 33rd USENIX Security Symposium (USENIX Security 2024).
 
