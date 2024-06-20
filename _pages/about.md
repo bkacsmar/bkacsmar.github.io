@@ -30,7 +30,7 @@ Prior to joining University of Alberta, she received her PhD in Computer Science
   <li> PoPETs Program Committee 2023, 2024, 2025</li>
   <li> ACM CCS Program Committee 2023, 2024</li>
   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>
-  <li> AAAI Program Committee 2024</li>
+  <li> AAAI Program Committee 2024, 2025</li>
 <!--   <li> PoPETS Artifact Committee co-chair 2022, 2023</li> -->
 </ul>
 
