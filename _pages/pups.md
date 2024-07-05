@@ -23,6 +23,8 @@ Technical privacy systems define what is being protected, from who, and under wh
 
 [Farishta Kabir](https://farishta.my.canva.site/)
 
+Steven Oufan Hai
+
 <!--<h3>Alumni</h3>-->
  
 
