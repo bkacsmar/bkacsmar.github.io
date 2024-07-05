@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 <h2>Current Courses</h2>
-TBA
+Cryptography for Digital Privacy in Fall term 2024, University of Alberta
 
+Machine Learning and Practical Privacy in Fall term 2024, University of Alberta
 
 <h2>Past Course Offerings</h2>
 
