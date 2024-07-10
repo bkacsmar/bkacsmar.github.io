@@ -17,13 +17,15 @@ Technical privacy systems define what is being protected, from who, and under wh
 
 [Afari Darfoor](https://afaridarfoor.my.canva.site/about), (MSc)
 
+Steven Oufan Hai, (MSc)
+
 <h3>Research Assistants</h3>
 
 [Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA)
 
 [Farishta Kabir](https://farishta.my.canva.site/)
 
-Steven Oufan Hai
+
 
 <!--<h3>Alumni</h3>-->
  
