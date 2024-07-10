@@ -41,7 +41,9 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
-August 2024, "Usability and Cryptography", Selected Areas in Cryptography 2024 Summer School, Montréal, Canada. 
+August 2024, "Usability and Cryptography", Selected Areas in Cryptography 2024 Summer School, Montréal, Canada.
+
+July 2024, I'll be at PETs 2024 in Bristol, say hello!
 
 June 2024, "Human-Centred Privacy in Machine Learning", University of Guelph, Canada. <a href="https://bkacsmar.github.io/files/HCPPML_Guelph_2024_June.pdf">(Slides)</a>
 
