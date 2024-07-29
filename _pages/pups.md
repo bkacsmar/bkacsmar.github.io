@@ -17,7 +17,7 @@ Technical privacy systems define what is being protected, from who, and under wh
 
 [Afari Darfoor](https://afaridarfoor.my.canva.site/about), (MSc)
 
-Steven Oufan Hai, (MSc)
+[Steven Oufan Hai](https://stevenoufanhai.github.io/), (MSc)
 
 <h3>Research Assistants</h3>
 
