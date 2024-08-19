@@ -24,16 +24,7 @@ Prior to joining University of Alberta, she received her PhD in Computer Science
 
 
 
-<b>Selected Service</b>
-<ul style="margin-top:-25px; margin-left:-20px;">
-  <li> IEEE Symposium on Security and Privacy Program Committee 2025</li>
-  <li> PoPETs Program Committee 2023, 2024, 2025</li>
-  <li> AAAI Program Committee 2024, 2025</li>
-  <li> ACM CCS Program Committee 2023, 2024</li>
-  <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>
-  
-<!--   <li> PoPETS Artifact Committee co-chair 2022, 2023</li> -->
-</ul>
+
 
 <!-- 
 Reminder you can use the PoPETs nomination form [here](https://docs.google.com/forms/d/e/1FAIpQLScxkw61ltTcpAwkVN5TSNRID-01-MNVyuW1b4FwP0rVufNdZQ/viewform) to nominate yourself or someone else as a PETs Artifact committee member, PC member, or external reviewer.  -->
@@ -52,6 +43,18 @@ June 2024, "Human-Centred Privacy in Machine Learning", University of Guelph, Ca
 
 May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Canada.
 <a href="https://bkacsmar.github.io/files/2024_Amii_upperbound.pdf">(Slides)</a>
+
+
+<b>Selected Service</b>
+<ul style="margin-top:-25px; margin-left:-20px;">
+  <li> IEEE Symposium on Security and Privacy Program Committee 2025</li>
+  <li> PoPETs Program Committee 2023, 2024, 2025</li>
+  <li> AAAI Program Committee 2024, 2025</li>
+  <li> ACM CCS Program Committee 2023, 2024</li>
+
+  
+<!--   <li> PoPETS Artifact Committee co-chair 2022, 2023</li>   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>-->
+</ul>
 
 
 <!-- 
