@@ -32,14 +32,10 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
-January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a>. 
-
-August 2024, "Usability and Cryptography", <a href="https://sacworkshop.org/SAC24/summer-school.html">Selected Areas in Cryptography 2024 Summer School</a>, Montréal, Canada.
-
-July 2024, I'll be at PETs 2024 in Bristol, say hello!
-
-June 2024, "Human-Centred Privacy in Machine Learning", University of Guelph, Canada. <a href="https://bkacsmar.github.io/files/HCPPML_Guelph_2024_June.pdf">(Slides)</a>
-
+January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a>. <br/>
+August 2024, "Usability and Cryptography", <a href="https://sacworkshop.org/SAC24/summer-school.html">Selected Areas in Cryptography 2024 Summer School</a>, Montréal, Canada. <br/>
+July 2024, I'll be at PETs 2024 in Bristol, say hello! <br/>
+June 2024, "Human-Centred Privacy in Machine Learning", University of Guelph, Canada. <a href="https://bkacsmar.github.io/files/HCPPML_Guelph_2024_June.pdf">(Slides)</a> <br/>
 May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Canada.
 <a href="https://bkacsmar.github.io/files/2024_Amii_upperbound.pdf">(Slides)</a>
 
