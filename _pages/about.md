@@ -41,7 +41,10 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
-August 2024, "Usability and Cryptography", Selected Areas in Cryptography 2024 Summer School, Montréal, Canada.
+
+January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a>. 
+
+August 2024, "Usability and Cryptography", <a href="https://sacworkshop.org/SAC24/summer-school.html">Selected Areas in Cryptography 2024 Summer School</a>, Montréal, Canada.
 
 July 2024, I'll be at PETs 2024 in Bristol, say hello!
 
