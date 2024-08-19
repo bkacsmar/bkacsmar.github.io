@@ -32,7 +32,6 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
-
 January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a>. 
 
 August 2024, "Usability and Cryptography", <a href="https://sacworkshop.org/SAC24/summer-school.html">Selected Areas in Cryptography 2024 Summer School</a>, Montréal, Canada.
@@ -45,16 +44,7 @@ May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Can
 <a href="https://bkacsmar.github.io/files/2024_Amii_upperbound.pdf">(Slides)</a>
 
 
-<b>Selected Service</b>
-<ul style="margin-top:-25px; margin-left:-20px;">
-  <li> IEEE Symposium on Security and Privacy Program Committee 2025</li>
-  <li> PoPETs Program Committee 2023, 2024, 2025</li>
-  <li> AAAI Program Committee 2024, 2025</li>
-  <li> ACM CCS Program Committee 2023, 2024</li>
 
-  
-<!--   <li> PoPETS Artifact Committee co-chair 2022, 2023</li>   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>-->
-</ul>
 
 
 <!-- 
@@ -78,6 +68,16 @@ May 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 2023 M
 
 <b>Erdös Number Trivia</b><br/>
 You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project">here</a>, about what is an Erdös number and why the collaboration graphs are (mathematically) interesting. As a fun note, I have an Erdös number of two. A co-author of Paul Erdös is said to have an Erdös number of one, and there are 511 people with this number. One of them, Douglas R. Stinson, is a <a href="https://cs.uwaterloo.ca/~dstinson/coauthors.html">collaborator</a> of mine, which is why I have a two. Interestingly, your number (distance from Erdös via a collaboration graph), is likely smaller than you may expect.  
+
+
+<b>Selected Service</b>
+<ul style="margin-top:-25px; margin-left:-20px;">
+  <li> IEEE Symposium on Security and Privacy Program Committee 2025</li>
+  <li> PoPETs Program Committee 2023, 2024, 2025</li>
+  <li> AAAI Program Committee 2024, 2025</li>
+  <li> ACM CCS Program Committee 2023, 2024</li>  
+<!--   <li> PoPETS Artifact Committee co-chair 2022, 2023</li>   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>-->
+</ul>
 
 
 <!-- <img src="/files/crysp-logo-word-clearbg-blackfg.png" alt="CrySP Logo" width="225" hspace="25"> 
