@@ -7,7 +7,8 @@ author_profile: true
 <h2>Current Courses</h2>
 Cryptography for Digital Privacy in Fall term 2024, University of Alberta. (<a href="https://bkacsmar.github.io//files/Referencefor496a1.pdf">Course Description</a>)
 
-Machine Learning and Practical Privacy in Fall term 2024, University of Alberta
+Machine Learning and Practical Privacy in Fall term 2024, University of Alberta.  (<a href="https://bkacsmar.github.io//files/Referencefor626a2.pdf">Course Description</a>)
+
 
 <h2>Past Course Offerings</h2>
 
