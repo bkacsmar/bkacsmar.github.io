@@ -6,9 +6,9 @@ author_profile: true
 
 <h2>Publications</h2>
 
-Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;PEPSI: Practically Efficient Private Set Intersection in the Unbalanced Setting&quot;. Accepted. To appear at The 33rd USENIX Security Symposium (USENIX Security 2024)
+Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/mahdavi">PEPSI: Practically Efficient Private Set Intersection in the Unbalanced Setting</a>&quot;. USENIX Security 2024, pp. 6453-6470.
 
-Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimianghazani, <b>Bailey Kacsmar</b>, Xinda Li, Nils Lukas, Rasoul Akhavan Mahdavi, Simon Oya, Ehsan Amjadian and Florian Kerschbaum. &quot;Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions&quot;. To appear at The 33rd USENIX Security Symposium (USENIX Security 2024).
+Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimianghazani, <b>Bailey Kacsmar</b>, Xinda Li, Nils Lukas, Rasoul Akhavan Mahdavi, Simon Oya, Ehsan Amjadian and Florian Kerschbaum. &quot;<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/diaa">Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions</a>&quot;. USENIX Security 2024, pp. 2191-2208.
 
 <b>Bailey Kacsmar</b>, Vasisht Duddu, Kyle Tilbury, Blase Ur, and Florian Kerschbaum. &quot;[Comprehension from Chaos: Towards Informed Consent for Private Computation](https://bkacsmar.github.io/files/comprehensionfromchaospreprint.pdf)&quot;. 2023 ACM SIGSAC Conference on Computer and Communications Security, pp 210-244. ([Slides](https://bkacsmar.github.io/files/BkacsmarCCS2023ComprehensionfromChaos.pdf))
 
