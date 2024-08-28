@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Publications</h2>
+<h2>Conference and Journal Publications</h2>
 
 Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/mahdavi">PEPSI: Practically Efficient Private Set Intersection in the Unbalanced Setting</a>&quot;. USENIX Security 2024, pp. 6453-6470.
 
@@ -39,10 +39,11 @@ Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastni
 
 Chenkuan Li, Changpin Li, <b>Bailey Kacsmar</b>, Roque Lacroix and Kyle Tilbury. &quot;[The Abel Integral Equations in Distribution](https://bkacsmar.github.io/files/abelIntegral.pdf)&quot;, Advances in Analysis, 2 (2017), pages 88-104.
 
+<h3>Workshop Publications</h3>
+Kyle Tilbury, <b>Bailey Kacsmar</b>, Jesse Hoey. &quot;<a href="https://openreview.net/pdf?id=0SQUKY7Uqn">Towards Safety in Multi-agent Reinforcement Learning through Security and Privacy by Design</a>&quot;. RLC 2024 Workshop CoCoMARL. 
 
 
-
-<h2>Theses</h2>
+<h3>Theses</h3>
 
 [Perceptions and Practicalities for Private Machine Learning](https://uwspace.uwaterloo.ca/handle/10012/19830). UWSpace: PhD thesis, University of Waterloo, Waterloo, ON, Canada. 
 <br>
