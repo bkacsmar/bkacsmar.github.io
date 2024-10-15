@@ -31,7 +31,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
-January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a> at UCSD. <br/>
+January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a> at EnCORE Institute at UCSD. <br/>
 August 2024, "Usability and Cryptography", <a href="https://sacworkshop.org/SAC24/summer-school.html">SAC 2024 Summer School</a>, Montréal, Canada. <a href="https://bkacsmar.github.io/files/SAC2024UsabilityTutorialPart1and2.pdf">(Slides)</a> <br/>
 July 2024, I'll be at PETs 2024 in Bristol, say hello! <br/>
 June 2024, "Human-Centred Privacy in Machine Learning", University of Guelph, Canada. <a href="https://bkacsmar.github.io/files/HCPPML_Guelph_2024_June.pdf">(Slides)</a> <br/>
@@ -67,10 +67,11 @@ You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossma
 
 <b>Selected Service</b>
 <ul style="margin-top:-25px; margin-left:-20px;">
+  <li> PETs HotPETs Chair 2025, 2026 </li>
   <li> IEEE Symposium on Security and Privacy Program Committee 2025</li>
   <li> PoPETs Program Committee 2023, 2024, 2025</li>
   <li> AAAI Program Committee 2024, 2025</li>
-  <li> ACM CCS Program Committee 2023, 2024</li>  
+  <li> ACM CCS Program Committee 2023, 2024, 2025</li>  
 <!--   <li> PoPETS Artifact Committee co-chair 2022, 2023</li>   <li> Symposium on Usable Privacy and Security (SOUPS) Program Committee 2024 </li>-->
 </ul>
 
