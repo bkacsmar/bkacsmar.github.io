@@ -5,19 +5,19 @@ author_profile: true
 ---
 
 <h2>Current Courses</h2>
-Cryptography for Digital Privacy in Fall term 2024, University of Alberta. (<a href="https://bkacsmar.github.io//files/Referencefor496a1.pdf">Course Description</a>)
-
-ML and Practical Privacy in Fall term 2024, University of Alberta.  (<a href="https://bkacsmar.github.io//files/Referencefor626a2.pdf">Course Description</a>)
+No courses offered in Winter 2025
 
 
 <h2>Past Course Offerings</h2>
 
-[Machine Learning](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) in Winter term 2024, [Syllabus](https://bkacsmar.github.io//files/466566_Syllabus_Jan8_corr.pdf), University of Alberta
+Cryptography for Digital Privacy in <a href="https://bkacsmar.github.io//files/Referencefor496a1.pdf">Fall term 2024</a>, University of Alberta. 
+
+Machine Learning and Practical Privacy. In <a href="[https://bkacsmar.github.io//MLandPracticalPrivacy/]">Fall term 2023</a> and in <a href="https://bkacsmar.github.io//files/Referencefor626a2.pdf">Fall term 2024 </a>, University of Alberta
+
+Machine Learning in [Winter term 2024](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) , [Syllabus](https://bkacsmar.github.io//files/466566_Syllabus_Jan8_corr.pdf), University of Alberta
 
 
-[Machine Learning and Practical Privacy](https://bkacsmar.github.io//MLandPracticalPrivacy/) in Fall term 2023, University of Alberta
-
-[Privacy, Cryptography, Network and Data Security](https://bkacsmar.github.io//cs489waterloo2023/) in Winter term 2023, University of Waterloo.
+Privacy, Cryptography, Network and Data Security in [Winter term 2023](https://bkacsmar.github.io//cs489waterloo2023/), University of Waterloo.
 
 
 <h2>Sample Course Materials</h2>
