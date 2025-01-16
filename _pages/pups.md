@@ -22,7 +22,7 @@ Technical privacy systems define what is being protected, from who, and under wh
 <!--<h3>Research Assistants</h3>-->
 
 
-Alumni
+<h3>Alumni</h3>
 [Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA 2024)
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA, 2024)
