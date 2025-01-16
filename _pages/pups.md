@@ -19,11 +19,13 @@ Technical privacy systems define what is being protected, from who, and under wh
 
 [Steven Oufan Hai](https://stevenoufanhai.github.io/), (MSc)
 
-<h3>Research Assistants</h3>
+<!--<h3>Research Assistants</h3>-->
 
-[Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA)
 
-[Farishta Kabir](https://farishta.my.canva.site/)
+Alumni
+[Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA 2024)
+
+[Farishta Kabir](https://farishta4898.github.io/), (RA, 2024)
 
 
 
