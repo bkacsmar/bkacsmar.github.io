@@ -47,6 +47,8 @@ A PhD is a marathon...or a long stretch made of many different sprints. What thi
 
 <b>Year One:</b>
 You have a masters degree (with a high probablity), you still have some courses to do (four), but we can start on a research direction. We will discuss your research goals and interests and then based on that I will suggest an existing project or direction you can join for your first work that will help build your skills and experience towards your own research plans down the road. 
+
+
 <b>Year Two:</b>
 
 <b>Year Three:</b>
