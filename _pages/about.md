@@ -68,7 +68,7 @@ You can find Erdös trivia <a href="https://sites.google.com/oakland.edu/grossma
 <b>Selected Service</b>
 <ul style="margin-top:-25px; margin-left:-20px;">
   <li> PETs HotPETs Chair 2025, 2026 </li>
-  <li> IEEE Symposium on Security and Privacy Program Committee 2025</li>
+  <li> IEEE Symposium on Security and Privacy Program Committee 2025, 2026</li>
   <li> PoPETs Program Committee 2023, 2024, 2025</li>
   <li> AAAI Program Committee 2024, 2025</li>
   <li> ACM CCS Program Committee 2023, 2024, 2025</li>  
