@@ -33,6 +33,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
 June 2025, Dagstuhl Seminar 25261 Future of Human-Centered Privacy  <br/>
 March 2025, Dagstuhl Seminar 25112 PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework  <br/>
+January 2025, PUPS student Jialiang Yan <a href="https://www.ualberta.ca/en/computing-science/news-and-events/news/2025/january/jialiang-yan-recognized-with-honorable-mention-for-the-2025-outstanding-undergraduate-researcher-award.html">Recognized with Honorable Mention for the 2025 Outstanding Undergraduate Researcher Award</a>
 January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a> at EnCORE Institute at UCSD. <br/>
 August 2024, "Usability and Cryptography", <a href="https://sacworkshop.org/SAC24/summer-school.html">SAC 2024 Summer School</a>, Montréal, Canada. <a href="https://bkacsmar.github.io/files/SAC2024UsabilityTutorialPart1and2.pdf">(Slides)</a> <br/>
 
