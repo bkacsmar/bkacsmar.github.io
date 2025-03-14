@@ -32,7 +32,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
 June 2025, Dagstuhl Seminar 25261 Future of Human-Centered Privacy  <br/>
-<!--&#x1F3C6;March 2025, Bailey Kacsmar (Me) recognized with <a href="https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/navigating-research-process/mentor-award.html">U of A Award</a> for Outstanding Mentorship in Undergraduate Research & Creative Activities-->
+&#x1F3C6;March 2025, Bailey Kacsmar (Me) recognized with <a href="https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/navigating-research-process/mentor-award.html">U of A Award</a> for Outstanding Mentorship in Undergraduate Research & Creative Activities <br/>
 March 2025, Dagstuhl Seminar <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25112">25112</a> PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework  <br/>
 &#x1F3C6; January 2025, PUPS student Jialiang Yan recognized with <a href="https://www.ualberta.ca/en/computing-science/news-and-events/news/2025/january/jialiang-yan-recognized-with-honorable-mention-for-the-2025-outstanding-undergraduate-researcher-award.html">Honorable Mention</a>  for the 2025 CRA Outstanding Undergraduate Researcher Award<br/>
 January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a> at EnCORE Institute at UCSD. <br/>
