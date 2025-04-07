@@ -16,7 +16,7 @@ Undergraduate positions are available for Summer 2025. You can apply through thi
 
 <h3>Graduate Students</h3>
 
-[Rabeya Bosri](https://bosri.my.canva.site/), (MSc)
+[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), (MSc)
 
 [Afari Darfoor](http://kwesidarfoor.com/about), (MSc)
 
