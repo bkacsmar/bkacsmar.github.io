@@ -15,18 +15,21 @@ Undergraduate positions are available for Summer 2025. You can apply through thi
 <h2>People in PUPS</h2>
 
 <h3>Graduate Students</h3>
+Alaa Alajmy, (incoming PhD)
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), (MSc)
 
-Miriam Bakija, (MSc)
+Miriam Bakija, (incoming MSc)
+
+Gwen Delos Santos, (incoming MSc)
 
 [Afari Darfoor](http://kwesidarfoor.com/about), (MSc)
 
-Samuel Feldman, (MSc)
+Samuel Feldman, (incoming MSc)
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), (MSc)
 
-Sara Jerin Prithila, (MSc)
+Sara Jerin Prithila, (incoming MSc)
  
 <!--<h3>Research Assistants</h3>-->
 
