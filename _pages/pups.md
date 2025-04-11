@@ -28,7 +28,7 @@ Undergraduate positions are available for Summer 2025. You can apply through thi
 
 <h3>Alumni</h3>
 
-[Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA 2024)
+[Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA 2024, next stage: George Washington University PhD Student)
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA 2024)
 
