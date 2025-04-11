@@ -32,8 +32,9 @@ Samuel Feldman, (incoming MSc)
 
 Sara Jerin Prithila, (incoming MSc)
  
-<!--<h3>Research Assistants</h3>-->
+<h3>Research Assistants</h3> 
 
+Coming soon
 
 <h3>Alumni</h3>
 
