@@ -18,10 +18,15 @@ Undergraduate positions are available for Summer 2025. You can apply through thi
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), (MSc)
 
+Miriam Bakija, (MSc)
+
 [Afari Darfoor](http://kwesidarfoor.com/about), (MSc)
+
+Samuel Feldman, (MSc)
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), (MSc)
 
+Sara Jerin Prithila, (MSc)
  
 <!--<h3>Research Assistants</h3>-->
 
