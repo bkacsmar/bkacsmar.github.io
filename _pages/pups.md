@@ -15,6 +15,7 @@ Undergraduate positions are available for Summer 2025. You can apply through thi
 <h2>People in PUPS</h2>
 
 <h3>Graduate Students</h3>
+
 Alaa Alajmy, (incoming PhD)
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), (MSc)
