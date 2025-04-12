@@ -16,21 +16,21 @@ Undergraduate positions are available for Summer 2025. You can apply through thi
 
 <h3>Graduate Students</h3>
 
-Alaa Alajmy, (incoming PhD)
+<!--Alaa Alajmy, (incoming PhD, co-supervised with Carrie Demmans-Epp)-->
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), (MSc)
 
-Miriam Bakija, (incoming MSc)
+<!--Miriam Bakija, (incoming MSc)
 
-Gwen Delos Santos, (incoming MSc)
+Gwen Delos Santos, (incoming MSc)-->
 
 [Afari Darfoor](http://kwesidarfoor.com/about), (MSc)
 
-Samuel Feldman, (incoming MSc)
+<!--Samuel Feldman, (incoming MSc)-->
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), (MSc)
 
-Sara Jerin Prithila, (incoming MSc)
+<!--Sara Jerin Prithila, (incoming MSc)-->
  
 <h3>Research Assistants</h3> 
 
