@@ -34,7 +34,15 @@ Gwen Delos Santos, (incoming MSc)-->
  
 <h3>Research Assistants</h3> 
 
-Coming soon
+Gwen Delos Santos (UGRA, 2025)
+
+Lina Saha (UGRA, 2025)
+
+Khoi Le (UGRA, 2025)
+
+Naone Kim (UGRA, 2025)
+
+Sasha Dudiy (UGRA, 2025)
 
 <h3>Alumni</h3>
 
