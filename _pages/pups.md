@@ -10,7 +10,7 @@ PUPS is a group of researchers at the University of Alberta organized by Bailey 
 Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the people who can be effected by whether their data is used in such systems.
 
 
-Undergraduate positions are available for Summer 2025. You can apply through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjsM8GRCPVVi8W8ULXuX0cGUr9cwGwiIB1O1j9j31i8t0MgA/viewform?usp=header">form</a>. 
+<strike>Undergraduate positions are available for Summer 2025. You can apply through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjsM8GRCPVVi8W8ULXuX0cGUr9cwGwiIB1O1j9j31i8t0MgA/viewform?usp=header">form</a>. </strike>
 
 <h2>People in PUPS</h2>
 
