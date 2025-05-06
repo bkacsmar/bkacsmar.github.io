@@ -32,6 +32,8 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
 June 2025, Dagstuhl Seminar 25261 Future of Human-Centered Privacy  <br/>
+April 2025, "AI Found a Secret, and Used it Badly ", <a href="https://sites.google.com/epsb.ca/epsbstudentaiconference/home"> EPSB Student AI Conference </a> <br/>
+Apil 2025, "Science Talks: Human-Centred Privacy in a Digital Society", <a href="https://www.ualberta.ca/en/science/alumni-and-giving/science-talks-webinars.html"> University of Alberta Science Talks Webinars </a>, recording <a href="https://www.youtube.com/watch?v=wbvhhMu9Rhw">available</a> <br/>
 &#x1F3C6;March 2025, Bailey Kacsmar (Me) recognized with <a href="https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/navigating-research-process/mentor-award.html"> 2025 U of A Award</a> for Outstanding Mentorship in Undergraduate Research & Creative Activities <br/>
 March 2025, Dagstuhl Seminar <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25112">25112</a> PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework  <br/>
 &#x1F3C6; January 2025, PUPS student Jialiang Yan recognized with <a href="https://www.ualberta.ca/en/computing-science/news-and-events/news/2025/january/jialiang-yan-recognized-with-honorable-mention-for-the-2025-outstanding-undergraduate-researcher-award.html">Honorable Mention</a>  for the 2025 CRA Outstanding Undergraduate Researcher Award<br/>
