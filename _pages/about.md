@@ -32,6 +32,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 <b>Upcoming and Recent Talks, Events, News...</b><br/>
 June 2025, Dagstuhl Seminar 25261 Future of Human-Centered Privacy  <br/>
+May 2025, "The Secret Life of Data", <a href="https://www.upperbound.ai/">Upper Bound</a> 2025, <a href="https://bkacsmar.github.io/files/UpperBound2025.pdf">(Slides)</a><br/>
 April 2025, "AI Found a Secret, and Used it Badly ", <a href="https://sites.google.com/epsb.ca/epsbstudentaiconference/home"> EPSB Student AI Conference </a> <br/>
 Apil 2025, "Science Talks: Human-Centred Privacy in a Digital Society", <a href="https://www.ualberta.ca/en/science/alumni-and-giving/science-talks-webinars.html"> University of Alberta Science Talks Webinars </a>, recording <a href="https://www.youtube.com/watch?v=wbvhhMu9Rhw">available</a> <br/>
 &#x1F3C6;March 2025, Bailey Kacsmar (Me) recognized with <a href="https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/navigating-research-process/mentor-award.html"> 2025 U of A Award</a> for Outstanding Mentorship in Undergraduate Research & Creative Activities <br/>
