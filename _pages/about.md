@@ -34,7 +34,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 July 2025, "Detangling Design Variables for Human-Centred Privacy", CISPA Helmholtz Center for Information Security <br/>
 June 2025, Dagstuhl Seminar <a href="https://www.dagstuhl.de/25261">25261</a> Future of Human-Centered Privacy  <br/>
 &#x1F3C6; May 2025, PUPS Student Afari Darfoor won first place in the research poster competition at
-the Responsible AI track of the Canadian AI Conference!!
+the Responsible AI track of the Canadian AI Conference!! <br/>
 May 2025, "The Secret Life of Data", <a href="https://www.upperbound.ai/">Upper Bound</a> 2025, <a href="https://bkacsmar.github.io/files/UpperBound2025.pdf">(Slides)</a><br/>
 April 2025, "AI Found a Secret, and Used it Badly ", <a href="https://sites.google.com/epsb.ca/epsbstudentaiconference/home"> EPSB Student AI Conference </a> <br/>
 Apil 2025, "Science Talks: Human-Centred Privacy in a Digital Society", <a href="https://www.ualberta.ca/en/science/alumni-and-giving/science-talks-webinars.html"> University of Alberta Science Talks Webinars </a>, recording <a href="https://www.youtube.com/watch?v=wbvhhMu9Rhw">available</a> <br/>
