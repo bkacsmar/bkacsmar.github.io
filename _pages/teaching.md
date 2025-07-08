@@ -4,9 +4,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h2>Current Courses</h2>
-No courses offered in Winter 2025
+<h2>Current and Upcoming Courses</h2>
 
+Cryptography for Digital Privacy in Fall term 2025, University of Alberta
+
+Formal Systems and Logic in Computing Science in Fall term 2025, University of Alberta
+
+Machine Learning and Practical Privacy in Winter term 2026, University of Alberta
 
 <h2>Past Course Offerings</h2>
 
