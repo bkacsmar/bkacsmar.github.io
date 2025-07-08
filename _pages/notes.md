@@ -24,3 +24,29 @@ If something exists as a list item, but doesn't have a link yet, I just haven't 
 </ul>
 
  
+<h3>Links to Requested Slide Decks for Older Talks I have Given</h3>
+<ul>
+  <li>June 2024, "Human-Centred Privacy in Machine Learning", University of Guelph, Canada. <a href="https://bkacsmar.github.io/files/HCPPML_Guelph_2024_June.pdf">(Slides)</a> </li>
+  <li>May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Canada. <a href="https://bkacsmar.github.io/files/2024_Amii_upperbound.pdf">(Slides)</a></li>
+  <li>May 2023 "Improving Interactive Instruction", Math Teaching Colloquium at 2023 MAA Seaway Section, Waterloo, Ontario. <a href="https://bkacsmar.github.io/files/Math_ed_colloqium_2023.pdf">(Slides)</a> </li>
+</ul>
+
+
+<!-- 
+ 
+
+
+
+
+October 2023, "Privacy and AI in Society", Amii DevCon Keynote, Edmonton, Alberta. 
+
+August 2023, "Features of Privacy Context in Multiparty Data Sharing", 2023 BIRS Workshop on Contextual Integrity for Differential Privacy. Banff International Research Station UBC Okanagan Campus, Canada.-->
+
+<!-- 
+July 2023 "Human-Centred Privacy in Machine Learning", ZISC Seminar Series, Zurich, Switzerland. 
+
+<!-- 
+May 2023 "Beyond Data Privacy for Machine Learning", 2023 Upper Bound Academic Symposium, Amii, Edmonton, Alberta. 
+[Slides](https://bkacsmar.github.io/files/Amii_privacyML_2023.pdf)  
+
+ -->
