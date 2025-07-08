@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 <h2>Current and Upcoming Courses</h2>
+<i>A draft of the syllabus will be provided here for upcoming terms prior to the start of classes. You can refer to past offerings as well.</i> </br> </br>
 
 Cryptography for Digital Privacy in Fall term 2025, University of Alberta
 
