@@ -30,7 +30,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 
-<b>Upcoming and Recent Talks, Events, News...</b><br/>
+<b>Upcoming and Recent Talks, Events, News...</b></br>
 July 2025, I'll be at PETs in DC, come say hello! </br>
 June 2025, "Detangling Design Variables for Human-Centred Privacy", CISPA Helmholtz Center for Information Security <br/>
 June 2025, Dagstuhl Seminar <a href="https://www.dagstuhl.de/25261">25261</a> Future of Human-Centered Privacy  <br/>
