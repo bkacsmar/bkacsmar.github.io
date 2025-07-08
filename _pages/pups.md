@@ -57,10 +57,14 @@ Lina Saha (UGRA, 2025)
 
 Castor Shem (UGRA, 2025)
 
+<h3>Visiting Researchers</h3>
+ Alireza Hodae (Summer 2025)
+
 
 <h3>Alumni</h3>
 
-[Jialiang (Chuck) Yan](https://www.chuckyan.com/), (UGRA 2024, next stage: George Washington University PhD Student)
+Jialiang (Chuck) Yan, (UGRA 2024, next stage: George Washington University PhD Student)
+<!--(https://www.chuckyan.com/)-->
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA 2024)
 
