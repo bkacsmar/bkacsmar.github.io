@@ -39,14 +39,16 @@ the Responsible AI track of the Canadian AI Conference!! <br/>
 May 2025, "The Secret Life of Data", <a href="https://www.upperbound.ai/">Upper Bound</a> 2025, <a href="https://bkacsmar.github.io/files/UpperBound2025.pdf">(Slides)</a><br/>
 April 2025, "AI Found a Secret, and Used it Badly ", <a href="https://sites.google.com/epsb.ca/epsbstudentaiconference/home"> EPSB Student AI Conference </a> <br/>
 Apil 2025, "Science Talks: Human-Centred Privacy in a Digital Society", <a href="https://www.ualberta.ca/en/science/alumni-and-giving/science-talks-webinars.html"> University of Alberta Science Talks Webinars </a>, recording <a href="https://www.youtube.com/watch?v=wbvhhMu9Rhw">available</a> <br/>
+
+
+
+
+<!-- 
 &#x1F3C6;March 2025, Bailey Kacsmar (Me) recognized with <a href="https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/navigating-research-process/mentor-award.html"> 2025 U of A Award</a> for Outstanding Mentorship in Undergraduate Research & Creative Activities <br/>
 March 2025, Dagstuhl Seminar <a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25112">25112</a> PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework  <br/>
 &#x1F3C6; January 2025, PUPS student Jialiang Yan recognized with <a href="https://www.ualberta.ca/en/computing-science/news-and-events/news/2025/january/jialiang-yan-recognized-with-honorable-mention-for-the-2025-outstanding-undergraduate-researcher-award.html">Honorable Mention</a>  for the 2025 CRA Outstanding Undergraduate Researcher Award!!<br/>
 January 2025, <a href="https://encoredp.github.io/">Workshop on Defining Holistic Private Data Science for Practice</a> at EnCORE Institute at UCSD. <br/>
 &#x1F3C6; September 2025, PUPS Student Rabeya Bosri awarded Alberta Graduate Excellence Scholarship (<a href="https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/alberta-graduate-excellence-scholarship.html">AGES</a>)!!<br/>
-
-
-<!-- 
 July 2024, I'll be at PETs 2024 in Bristol, say hello! <br/>
 June 2024, "Human-Centred Privacy in Machine Learning", University of Guelph, Canada. <a href="https://bkacsmar.github.io/files/HCPPML_Guelph_2024_June.pdf">(Slides)</a> <br/>
 May 2024, "Privacy Pinch Points for Applied ML", Amii Upper Bound, Edmonton, Canada.
