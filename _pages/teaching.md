@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 <h2>Current and Upcoming Courses</h2>
-<i>A draft of the syllabus will be provided here for upcoming terms prior to the start of classes. You can refer to past offerings as well. Note that the official syllabus provided on Canvas supersedes that posted here.</i> <br> 
+<i>A draft of the syllabus may be provided here for upcoming terms prior to the start of classes for courses without past syllabi here or for significant changes. You can refer to past offerings for insight. Note that the official syllabus provided on Canvas supersedes that posted here.</i> <br> 
 
-Cryptography for Digital Privacy in <a href="https://bkacsmar.github.io//files/SyllabusF25Crypto.pdf">Fall term 2025</a>, UAlberta <br>
+Cryptography for Digital Privacy in Fall term 2025, UAlberta <br>
 Formal Systems and Logic in Computing Science in <a href="https://bkacsmar.github.io//files/cmput272Overview.pdf">Fall term 2025</a>, <a href="https://bkacsmar.github.io//files/policies.pdf">272 Policies</a>, UAlberta <br>
 Machine Learning and Practical Privacy in Winter term 2026, UAlberta 
 
