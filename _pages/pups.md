@@ -27,43 +27,45 @@ the Responsible AI track of the Canadian AI Conference!! </li>
 
 <!--Alaa Alajmy, (incoming PhD, co-supervised with Carrie Demmans-Epp)-->
 
-[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), (MSc)
+[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Design tradeoffs in privacy and machine learning</i>, (MSc)
 
-<!--Miriam Bakija, (incoming MSc)
+Miriam Bakija, (MSc)
 
-Gwen Delos Santos, (incoming MSc)-->
+<!--Gwen Delos Santos, (incoming MSc)-->
 
-[Afari Darfoor](http://kwesidarfoor.com/about), (MSc)
+[Afari Darfoor](http://kwesidarfoor.com/about), <i>Privacy and Upper Bionic Limbs</i>, (MSc)
 
-<!--Samuel Feldman, (incoming MSc)-->
+Samuel Feldman, (MSc)
 
-[Afrida Hossain](https://afrida-hossain.github.io/website/), (MSc)
+[Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i>,  (MSc)
 
 <!--Sara Jerin Prithila, (incoming MSc)-->
  
 <h3>Research Assistants</h3> 
 
-Gwen Delos Santos (UGRA, 2025)
+Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA, 2025)
 
-Sasha Dudiy (UGRA, 2025)
+<!--<h3>Visiting Researchers</h3>-->
 
-Qiantong Guo  (UGRA, 2025)
-
-Naone Kim (UGRA, 2025)
-
-Khoi Le (UGRA, 2025)
-
-Lina Saha (UGRA, 2025)
-
-Castor Shem (UGRA, 2025)
-
-<h3>Visiting Researchers</h3>
- Alireza Hodae (Summer 2025)
 
 
 <h3>Alumni</h3>
 
-Jialiang (Chuck) Yan, (UGRA 2024, next stage: George Washington University PhD Student)
+Gwen Delos Santos, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+
+Sasha Dudiy, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+
+Qiantong Guo, <i>Privacy Problems in Theory versus Media</i>,  (UGRA,  Summer 2025)
+
+Naone Kim, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+
+Khoi Le, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+
+Lina Saha, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+
+Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher, Summer 2025)
+
+Jialiang (Chuck) Yan, <i>Privacy and Mobile Notices</i>, (UGRA 2024, next stage: George Washington University PhD Student)
 <!--(https://www.chuckyan.com/)-->
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA 2024)
