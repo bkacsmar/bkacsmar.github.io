@@ -25,8 +25,6 @@ the Responsible AI track of the Canadian AI Conference!! </li>
 
 <h3>Graduate Students</h3>
 
-<!--Alaa Alajmy, (incoming PhD, co-supervised with Carrie Demmans-Epp)-->
-
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Design tradeoffs in privacy and machine learning</i>, (MSc)
 
 Miriam Bakija, (MSc)
@@ -65,8 +63,8 @@ Lina Saha, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
 
 Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher, Summer 2025)
 
-Jialiang (Chuck) Yan, <i>Privacy and Mobile Notices</i>, (UGRA 2024, next stage: George Washington University PhD Student)
-<!--(https://www.chuckyan.com/)-->
+<a href="https://jialiangyan.vercel.app/">Jialiang Yan</a>, <i>Privacy and Mobile Notices</i>, (UGRA 2024, next stage: George Washington University PhD Student)
+
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA 2024)
 
