@@ -51,7 +51,7 @@ Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA, 2025)
 
 <h3>Alumni</h3>
 
-[Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Ehanced Upper-Limb Bionic Devices</i>, (MSc. Fall 2025)
+[Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall 2025)
 
 Gwen Delos Santos, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
 
