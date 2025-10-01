@@ -31,7 +31,7 @@ the Responsible AI track of the Canadian AI Conference!! </li>
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Design tradeoffs in privacy and machine learning</i>, (MSc)
 
-Miriam Bakija, (MSc)
+<a href="https://mbakija73.github.io/mbakija.github.io/">Miriam Bakija</a>, (MSc)
 
 <!--Gwen Delos Santos, (incoming MSc)-->
 
