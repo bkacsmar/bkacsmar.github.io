@@ -6,7 +6,7 @@ author_profile: true
 
 <h2>Conference and Journal Publications</h2>
 
-<b>Bailey Kacsmar</b>. Privacy, Policy, and Compliance in Yet Another 'Age': The Necessity of Interdisciplinary Collaboration for Artificial Intelligence Applications. To appear in IEEE Data Eng. Bull. Vol. 49 No. 4 (2025). ([preprint](https://bkacsmar.github.io/files/Paper__BaileyIEEETCDE_preprint.pdf))
+<b>Bailey Kacsmar</b>. Privacy, Policy, and Compliance in Yet Another 'Age': The Necessity of Interdisciplinary Collaboration for Artificial Intelligence Applications. To appear in IEEE Data Engineering Bulletin Vol. 49 No. 4 (2025). ([Preprint](https://bkacsmar.github.io/files/Paper__BaileyIEEETCDE_preprint.pdf))
 
 Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/mahdavi">PEPSI: Practically Efficient Private Set Intersection in the Unbalanced Setting</a>&quot;. USENIX Security 2024, pp. 6453-6470.
 
@@ -27,7 +27,7 @@ Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastni
 
 <b>Bailey Kacsmar</b>, Basit Khurram, Nils Lukas, Alexander Norton, Masoumeh Shafieinejad, Zhiwei Shang, Yasser Baseri, Maryam Sepehri, Simon Oya, and Florian Kerschbaum. &quot;[Differentially Private Two-Party Set Operations](https://bkacsmar.github.io/files/DiPSI.pdf)&quot;. The 5th IEEE European Symposium on Security and Privacy, (IEEE EuroS&P 2020). pp. 390-404. 
 
-<b>Bailey Kacsmar</b>, Chelsea H. Komlo, Florian Kerschbaum, Ian Goldberg. &quot;[Mind the Gap: Ceremonies for Applied Secret Sharing](https://bkacsmar.github.io/files/mindthegap.pdf)&quot;. <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020. [(Slides)](https://bkacsmar.github.io/files/PoPETS_2020_Mindthegap.pdf)
+<b>Bailey Kacsmar</b>, Chelsea H. Komlo, Florian Kerschbaum, Ian Goldberg. &quot;[Mind the Gap: Ceremonies for Applied Secret Sharing](https://bkacsmar.github.io/files/mindthegap.pdf)&quot;. <i> Proceedings on Privacy Enhancing Technologies</i>. Vol. 2020, No. 2. 18 pages. April 2020. ([Slides](https://bkacsmar.github.io/files/PoPETS_2020_Mindthegap.pdf))
 <br>
 
 
@@ -35,7 +35,7 @@ Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastni
 <br>
 
 
-<b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf)&quot;. The 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham. [(Slides)](https://bkacsmar.github.io/files/Computing_Low_Weight_DL.pdf)
+<b>Bailey Kacsmar</b>, Sarah Plosker, Ryan Henry. &quot;[Computing Low-Weight Discrete Logarithms](https://bkacsmar.github.io/files/Low_weight_DLP_ext.pdf)&quot;. The 24th Annual Conference on Selected Areas in Cryptography (SAC 2017), <i>International Conference on Selected Areas in Cryptography</i>, pp. 106-126. Springer, Cham. ([Slides)](https://bkacsmar.github.io/files/Computing_Low_Weight_DL.pdf))
 <br>
 
 
@@ -52,7 +52,7 @@ Kyle Tilbury, <b>Bailey Kacsmar</b>, Jesse Hoey. &quot;<a href="https://openrevi
 
 
 [Designing Efficient Algorithms for Combinatorial Repairable Threshold Schemes](https://bkacsmar.github.io/files/DesigningEfficientAlgo.pdf). UWSpace: MMath
-thesis, University of Waterloo, Waterloo, ON, Canada (October 2018). [(Slides)](https://bkacsmar.github.io/files/MastersThesis_presentation.pdf)
+thesis, University of Waterloo, Waterloo, ON, Canada (October 2018). ([Slides](https://bkacsmar.github.io/files/MastersThesis_presentation.pdf))
 
 
 
