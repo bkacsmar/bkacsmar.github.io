@@ -6,7 +6,7 @@ author_profile: true
 
 <h2>Conference and Journal Publications</h2>
 
-<b>Bailey Kacsmar</b>. Privacy, Policy, and Compliance in Yet Another 'Age': The Necessity of Interdisciplinary Collaboration for Artificial Intelligence Applications. To appear in IEEE Data Engineering Bulletin Vol. 49 No. 4 (2025). ([Preprint](https://bkacsmar.github.io/files/Paper__BaileyIEEETCDE_preprint.pdf))
+<b>Bailey Kacsmar</b>. Privacy, Policy, and Compliance in Yet Another 'Age': The Necessity of Interdisciplinary Collaboration for Artificial Intelligence Applications. To appear in IEEE Data Engineering Bulletin. ([Preprint](https://bkacsmar.github.io/files/Paper__BaileyIEEETCDE_preprint.pdf))
 
 Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/mahdavi">PEPSI: Practically Efficient Private Set Intersection in the Unbalanced Setting</a>&quot;. USENIX Security 2024, pp. 6453-6470.
 
