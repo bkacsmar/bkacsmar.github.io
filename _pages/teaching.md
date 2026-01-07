@@ -7,14 +7,12 @@ author_profile: true
 <h2>Current and Upcoming Courses</h2>
 <i>A draft of the syllabus may be provided here for upcoming terms prior to the start of classes for courses without past syllabi here or for significant changes. You can refer to past offerings for insight. Note that the official syllabus provided on Canvas supersedes that posted here.</i> <br> 
 
-Cryptography for Digital Privacy in Fall term 2025, UAlberta <br>
-Formal Systems and Logic in Computing Science in <a href="https://bkacsmar.github.io//files/cmput272Overview.pdf">Fall term 2025</a>, <a href="https://bkacsmar.github.io//files/policies.pdf">272 Policies</a>, UAlberta <br>
 Machine Learning and Practical Privacy in Winter term 2026, UAlberta 
 
 <h2>Past Course Offerings</h2>
-
-Cryptography for Digital Privacy in <a href="https://bkacsmar.github.io//files/Referencefor496a1.pdf">Fall term 2024</a>, University of Alberta. <br>
-Machine Learning and Practical Privacy. In <a href="[https://bkacsmar.github.io//MLandPracticalPrivacy/]">Fall term 2023</a> and in <a href="https://bkacsmar.github.io//files/Referencefor626a2.pdf">Fall term 2024 </a>, University of Alberta <br>
+Formal Systems and Logic in Computing Science in <a href="https://bkacsmar.github.io//files/cmput272Overview.pdf">Fall term 2025</a>, <a href="https://bkacsmar.github.io//files/policies.pdf">272 Policies</a>, UAlberta <br>
+Cryptography for Digital Privacy in <a href="https://bkacsmar.github.io//files/Referencefor496a1.pdf">Fall 2024</a>, Fall 2025, University of Alberta. <br>
+Machine Learning and Practical Privacy. In <a href="[https://bkacsmar.github.io//MLandPracticalPrivacy/]">Fall 2023</a> and in <a href="https://bkacsmar.github.io//files/Referencefor626a2.pdf">Fall 2024 </a>, University of Alberta <br>
 Machine Learning in [Winter term 2024](https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/machine-learning.html) , [Syllabus](https://bkacsmar.github.io//files/466566_Syllabus_Jan8_corr.pdf), University of Alberta <br>
 Privacy, Cryptography, Network and Data Security in [Winter term 2023](https://bkacsmar.github.io//cs489waterloo2023/), University of Waterloo.
 
