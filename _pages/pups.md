@@ -30,27 +30,29 @@ the Responsible AI track of the Canadian AI Conference!! </li>
 
 <h3>Masters Students</h3>
 
-[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Design tradeoffs in privacy and machine learning</i>, (MSc)
+[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Design tradeoffs in privacy and machine learning</i> 
 
-<a href="https://mbakija73.github.io/mbakija.github.io/">Miriam Bakija</a>, (MSc)
+<a href="https://mbakija73.github.io/mbakija.github.io/">Miriam Bakija</a> 
 
-<!--Gwen Delos Santos, (incoming MSc)-->
+Gwen Delos Santos, co-supervised with Michael Bowling
 
-Samuel Feldman, (MSc)
+Samuel Feldman 
 
-[Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i>,  (MSc)
+[Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i> 
 
-<!--Sara Jerin Prithila, (incoming MSc)-->
+Sara Jerin Prithila 
  
 <h3>Research Assistants</h3> 
 
-Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA, 2025)
+Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 
 <!--<h3>Visiting Researchers</h3>-->
 
 
 
 <h3>Alumni</h3>
+
+Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer and Fall 2025)
 
 [Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall '25, <a href="https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe">Thesis</a>)
 
