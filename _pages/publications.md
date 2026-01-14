@@ -6,7 +6,9 @@ author_profile: true
 
 <h2>Conference and Journal Publications</h2>
 
-<b>Bailey Kacsmar</b>. Privacy, Policy, and Compliance in Yet Another 'Age': The Necessity of Interdisciplinary Collaboration for Artificial Intelligence Applications. <a href="http://sites.computer.org/debull/bull_issues.html">IEEE Data Engineering Bulletin</a> 2025	Vol. 49 No. 4. ([Preprint](https://bkacsmar.github.io/files/Paper__BaileyIEEETCDE_preprint.pdf))
+Masoumeh Shafieinejad, Xi He, <b>Bailey Kacsmar</b>. Adopt a PET! An Exploration of PETs, Policy, and Practicalities for Industry in Canada. To appear at USEC 2026. 
+
+<b>Bailey Kacsmar</b>. Privacy, Policy, and Compliance in Yet Another 'Age': The Necessity of Interdisciplinary Collaboration for Artificial Intelligence Applications. <a href="http://sites.computer.org/debull/bull_issues.html">IEEE Data Engineering Bulletin</a> 2025	Vol. 49 No. 4. pp. 6-32. ([Preprint](https://bkacsmar.github.io/files/Paper__BaileyIEEETCDE_preprint.pdf))
 
 Rasoul Akhavan Mahdavi, Faezeh Ebrahimianghazani, Thomas Humphries, <b>Bailey Kacsmar</b>, Emily Lepert, Xinda Li, Nils Lukas, John A. Premkumar, Simon Oya, Florian Kerschbaum. &quot;<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/mahdavi">PEPSI: Practically Efficient Private Set Intersection in the Unbalanced Setting</a>&quot;. USENIX Security 2024, pp. 6453-6470.
 
@@ -22,8 +24,6 @@ Abdulrahman Diaa, Lucas Fenaux, Thomas Humphries, Marian Dietz, Faezeh Ebrahimia
 
 
 Rasoul Akhavan Mahdavi,  Thomas Humphries, <b>Bailey Kacsmar</b>, Simeon Krastnikov, Nils Lukas, John Premkumar,  Masoumeh Shafieinejad, Simon Oya, Florian Kerschbaum, Erik-Oliver Blass. &quot;[Practical Over-Threshold Multi-Party Private Set Intersection](https://bkacsmar.github.io/files/overthresholdPSI.pdf)&quot;. The Annual Computer Security Applications Conference (ACSAC 2020), pp. 772-783.
-
-
 
 <b>Bailey Kacsmar</b>, Basit Khurram, Nils Lukas, Alexander Norton, Masoumeh Shafieinejad, Zhiwei Shang, Yasser Baseri, Maryam Sepehri, Simon Oya, and Florian Kerschbaum. &quot;[Differentially Private Two-Party Set Operations](https://bkacsmar.github.io/files/DiPSI.pdf)&quot;. The 5th IEEE European Symposium on Security and Privacy, (IEEE EuroS&P 2020). pp. 390-404. 
 
