@@ -36,7 +36,7 @@ the Responsible AI track of the Canadian AI Conference!! </li>
 
 Gwen Delos Santos, co-supervised with Michael Bowling
 
-Samuel Feldman 
+<a href="https://samk6.github.io/">Samuel Feldman</a>, <i>Applied Cryptography</i>
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i> 
 
