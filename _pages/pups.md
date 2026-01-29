@@ -26,7 +26,7 @@ the Responsible AI track of the Canadian AI Conference!! </li>
 
 <h3>PhD Students</h3>
 
-[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html)
+[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Privacy in practice </i>
 
 [Afari Darfoor](http://kwesidarfoor.com/about), <i>Privacy and Bionic Limbs</i>, co-supervised with Patrick Pilarski
 
