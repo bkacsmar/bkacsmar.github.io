@@ -26,11 +26,12 @@ the Responsible AI track of the Canadian AI Conference!! </li>
 
 <h3>PhD Students</h3>
 
+[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html)
+
 [Afari Darfoor](http://kwesidarfoor.com/about), <i>Privacy and Bionic Limbs</i>, co-supervised with Patrick Pilarski
 
-<h3>Masters Students</h3>
 
-[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Design tradeoffs in privacy and machine learning</i> 
+<h3>Masters Students</h3>
 
 <a href="https://mbakija73.github.io/mbakija.github.io/">Miriam Bakija</a> 
 
@@ -52,6 +53,10 @@ Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 
 <h3>Alumni</h3>
 
+[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Contextualizing Trade-offs: The Interplay of Privacy,
+Fairness, and Robustness in High-Stakes Automatic, (MSc. Spring 2026)
+
+Decision Systems</i> 
 Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer and Fall 2025)
 
 [Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall '25, <a href="https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe">Thesis</a>)
