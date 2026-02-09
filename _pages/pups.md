@@ -14,6 +14,7 @@ Technical privacy systems define what is being protected, from who, and under wh
 
 <h2>PUPS News</h2>
 <ul>
+  <li>&#x1F3C6; January 2026, PUPS student Gwen Delos Santos recognized with <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/">Honorable Mention</a>  for the 2026 CRA Outstanding Undergraduate Researcher Award!!</li>
  <li>&#x1F3C6; September 2025, PUPS Student Samuel Feldman awarded Alberta Graduate Excellence Scholarship (<a href="https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/alberta-graduate-excellence-scholarship.html">AGES</a>)!!</li>
  <li>&#x1F3C6; May 2025, PUPS Student Afari Darfoor won first place in the research poster competition at
 the Responsible AI track of the Canadian AI Conference!! </li>
@@ -54,9 +55,8 @@ Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 <h3>Alumni</h3>
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Contextualizing Trade-offs: The Interplay of Privacy,
-Fairness, and Robustness in High-Stakes Automatic, (MSc. Spring 2026)
+Fairness, and Robustness in High-Stakes Automatic Decision Systems</i>, (MSc. Spring 2026)
 
-Decision Systems</i> 
 Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer and Fall 2025)
 
 [Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall '25, <a href="https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe">Thesis</a>)
