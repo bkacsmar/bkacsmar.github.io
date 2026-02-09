@@ -30,7 +30,7 @@ Reminder you can use the PoPETs nomination form [here](https://docs.google.com/f
 
 
 
-<b>Upcoming and Recent Talks, Events, News...</b> <br/>
+<!--<b>Upcoming and Recent Talks, Events, News...</b> <br/>
 September 2025, "<a href="https://bkacsmar.github.io/files/NotAboutDataPrivacy2025.pdf">It's Not About Data Privacy</a>", AI in Dentistry Symposium, <a href="https://www.cdsab.ca/">CDSA</a> <br/>
 July 2025, I'll be at PETS in DC, come say hello!  <br/>
 June 2025, "Detangling Design Variables for Human-Centred Privacy", CISPA Helmholtz Center for Information Security <br/>
