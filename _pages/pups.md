@@ -42,7 +42,7 @@ Gwen Delos Santos, co-supervised with Michael Bowling
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i> 
 
-Sara Jerin Prithila 
+[Sara Jerin Prithila](https://jerinsync.github.io/) 
  
 <h3>Research Assistants</h3> 
 
