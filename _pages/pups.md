@@ -57,23 +57,23 @@ Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Contextualizing Trade-offs: The Interplay of Privacy,
 Fairness, and Robustness in High-Stakes Automatic Decision Systems</i>, (MSc. Spring 2026)
 
-Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer and Fall 2025)
+Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer and Fall 2025)
 
 [Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall '25, <a href="https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe">Thesis</a>)
 
-Gwen Delos Santos, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+Gwen Delos Santos, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025, next stage: University of Alberta MSc Student)
 
-Sasha Dudiy, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+Sasha Dudiy, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025)
 
-Qiantong Guo, <i>Privacy Problems in Theory versus Media</i>,  (UGRA,  Summer 2025)
+Qiantong Guo, <i>Privacy Problems in Theory versus Media</i>,  (UGRA  Summer 2025)
 
-Naone Kim, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+Naone Kim, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025)
 
-Khoi Le, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+Khoi Le, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025)
 
-Lina Saha, <i>Privacy Problems in Theory versus Media</i>, (UGRA, Summer 2025)
+Lina Saha, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025)
 
-Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher, Summer 2025)
+Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher Summer 2025)
 
 <a href="https://jialiangyan.vercel.app/">Jialiang Yan</a>, <i>Privacy and Mobile Notices</i>, (UGRA 2024, next stage: George Washington University PhD Student)
 
