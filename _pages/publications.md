@@ -6,7 +6,9 @@ author_profile: true
 
 <h2>Conference and Journal Publications</h2>
 
-Masoumeh Shafieinejad, Xi He, <b>Bailey Kacsmar</b>. <a href="https://www.ndss-symposium.org/wp-content/uploads/usec26-27.pdf">Adopt a PET! An Exploration of PETs, Policy, and Practicalities for Industry in Canada</a>. USEC 2026. ([Preprint](https://arxiv.org/pdf/2503.03027))
+Miriam Bakija*, <b>Bailey Kacsmar</b>, Irene Cheng. An Analysis of Post-Fire Active Reforestation using Sentinel-2. To appear at The International Geoscience and Remote Sensing Symposium (IGARSS 2026). 
+
+Masoumeh Shafieinejad, Xi He, <b>Bailey Kacsmar</b>. <a href="https://www.ndss-symposium.org/wp-content/uploads/usec26-27.pdf">Adopt a PET! An Exploration of PETs, Policy, and Practicalities for Industry in Canada</a>. Symposium on Usable Security and Privacy (USEC 2026). ([Preprint](https://arxiv.org/pdf/2503.03027))
 
 <b>Bailey Kacsmar</b>. Privacy, Policy, and Compliance in Yet Another 'Age': The Necessity of Interdisciplinary Collaboration for Artificial Intelligence Applications. <a href="http://sites.computer.org/debull/bull_issues.html">IEEE Data Engineering Bulletin</a> 2025	Vol. 49 No. 4. pp. 6-32. ([Preprint](https://bkacsmar.github.io/files/Paper__BaileyIEEETCDE_preprint.pdf))
 
