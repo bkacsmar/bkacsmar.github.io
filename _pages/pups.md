@@ -46,13 +46,15 @@ Gwen Delos Santos, co-supervised with Michael Bowling
  
 <h3>Research Assistants</h3> 
 
-Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
+Sasha Dudiy, <i>Blackout Resistant Communications</i>, (NSERC USRA, Summer 2026)
 
 <!--<h3>Visiting Researchers</h3>-->
 
 
 
 <h3>Alumni</h3>
+
+Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Contextualizing Trade-offs: The Interplay of Privacy,
 Fairness, and Robustness in High-Stakes Automatic Decision Systems</i>, (MSc. Spring 2026)
