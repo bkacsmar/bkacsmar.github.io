@@ -6,7 +6,7 @@ author_profile: true
 
 <h1> PUPS: Practical Usable Privacy and Security Research Lab</h1>
 
-For information about my research group and what we are all up to, check out our <a href="https://pupsresearchlab.github.io/">lab web page</a>.
+For information about my research group and what we are all up to, check out our [lab web page](https://pupsresearchlab.github.io/).
 
 <!--
 
