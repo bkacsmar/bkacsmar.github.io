@@ -5,12 +5,18 @@ author_profile: true
 ---
 
 <h1> PUPS: Practical Usable Privacy and Security Research Lab</h1>
+
+For information about my research group and what we are all up to, check out our <a href="https://pupsresearchlab.github.io/">lab web page</a>.
+
+<!--
+
+
 PUPS is a group of researchers at the University of Alberta organized by Bailey Kacsmar. The work in this group intersects with digital privacy, security, machine larning, and HCI.
 
 Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the people who can be effected by whether their data is used in such systems.
 
 
-<!--<strike>Undergraduate positions are available for Summer 2025. You can apply through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjsM8GRCPVVi8W8ULXuX0cGUr9cwGwiIB1O1j9j31i8t0MgA/viewform?usp=header">form</a>. </strike>-->
+<!--<strike>Undergraduate positions are available for Summer 2025. You can apply through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjsM8GRCPVVi8W8ULXuX0cGUr9cwGwiIB1O1j9j31i8t0MgA/viewform?usp=header">form</a>. </strike> 
 
 <h2>PUPS News</h2>
 <ul>
@@ -48,8 +54,7 @@ Gwen Delos Santos, co-supervised with Michael Bowling
 
 Sasha Dudiy, <i>Blackout Resistant Communications</i>, (NSERC USRA, Summer 2026)
 
-<!--<h3>Visiting Researchers</h3>-->
-
+<!--<h3>Visiting Researchers</h3>
 
 
 <h3>Alumni</h3>
@@ -92,7 +97,7 @@ Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher Summer 2025
 What is practical usable privacy and security? Well, breaking it down a bit, it is made up of the following:
 <!--
 <img src="/files/cycle.png" alt="Human Centered Cycle" width="700"> 
-</p>-->
+</p>
 <br/><br/>
 
 <b>Practical privacy?</b>
@@ -105,5 +110,5 @@ Thus, to effective design privacy tools that users will feel encouraged to use, 
 While usability can include efficiency and practicality from a technical standpoint, private computation must inspire trust and match the expectations of the data subjects to ensure their continued consent to the use of their data in such computations. 
 
 
-<b>Privacy and security?</b> While privacy and security are not equivalent concepts, when speaking of technical systems, an insecure system can lead to privacy violations. Therefore, when working to design technical systems for privacy, we must also consider the security aspects of it. 
+<b>Privacy and security?</b> While privacy and security are not equivalent concepts, when speaking of technical systems, an insecure system can lead to privacy violations. Therefore, when working to design technical systems for privacy, we must also consider the security aspects of it. -->
 
