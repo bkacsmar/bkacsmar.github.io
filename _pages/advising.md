@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h1> Advising</h1>
-I am currently considering (1 to 2) graduate students to start in September 2027 In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols and a bit of applied cryptography. 
+I am currently considering (1 to 2) graduate students to start in September 2027 In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying through the U of A admissions process. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols and a bit of applied cryptography. I do not have any openings right now for undergraduate researchers.
 
 <h1>Frequently Asked Questions</h1>
 <ul>
@@ -15,7 +15,7 @@ I am currently considering (1 to 2) graduate students to start in September 2027
   
   <li><b>Why a master's?</b> Here at UAlberta, and many schools in Canada, a thesis based masters is like a "mini-PhD" (and thus still funded). You will do fewer courses, do research, and produce a thesis, but smaller; because it is within two years.</li>
    <li><b>How do I apply?</b> University of Alberta admission process can be found <a href="https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/index.html">at this link</a> That page also has some information related to study permits if you are an international student.</li>
-   <li><b>How do I reach out to you?</b> My email can be found linked on my webpage or in the University of Alberta directory. I, unfortunately, cannot guarantee I will respond to all emails; simply due to the number of them. Note that I cannot and will not guarantee admissions. I also will not review application materials in advance. Read all my webpage? Okay, include in your email subject that --pups are not puppies-- and ask your questions in the email body. I recommend asking specific questions; and not ones that are already answered in this list of FAQs.</li>
+   <li><b>How do I reach out to you?</b> My email can be found linked on my webpage or in the University of Alberta directory. I, unfortunately, am unlikely to respond to your email; simply put there are just too many of them. before emailing me, note that I cannot and will not guarantee admissions. I also will not review application materials in advance. Read all my webpage? Okay, include in your email subject that --pups are not puppies-- and ask your questions in the email body. I recommend asking specific questions; and not ones that are already answered in this list of FAQs.</li>
   <li><b>Do my research interests fit within the PUPS group?</b> I have an overview of <a href="https://bkacsmar.github.io/pups/">the research in PUPS</a>. In short, while there is a range of research that falls under this umbrella, it will all include privacy and/or security.</li>
   <li>If you are a student at University of Alberta, you can fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRRbYAS6SkA-qp2kwuItRi6nieydUxIISKprOAY3hFNuzepg/viewform?usp=header">this form</a> to inquire about opportunities with my group. </li> Note filling out this form does not guarantee you a response nor guarantee you a role in the lab. 
 </ul>
