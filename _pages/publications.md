@@ -8,7 +8,7 @@ author_profile: true
 
 Rabeya Bosri\*, Anna H. Lorimer, Afrida Hossain\*, Vasisht Duddu, <b>Bailey Kacsmar</b>. ``People can change, and patterns can be broken'': Contextualizing Tradeoffs in Automated Decision-Making Systems. To appear in Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2026). ([Preprint](https://bkacsmar.github.io/files/rabeya_CCS2026_tradeoffs_preprint.pdf))
 
-Miriam Bakija\*, <b>Bailey Kacsmar</b>, Irene Cheng. An Analysis of Post-Fire Active Reforestation using Sentinel-2. To appear at The International Geoscience and Remote Sensing Symposium (IGARSS 2026). 
+Miriam Bakija\*, <b>Bailey Kacsmar</b>, Irene Cheng. An Analysis of Post-Fire Active Reforestation using Sentinel-2. To appear at The International Geoscience and Remote Sensing Symposium (IGARSS 2026). ([Preprint](https://bkacsmar.github.io/files/IGARSS_2026_An_Analysis_of_Post_Fire_Active_Reforestation_using_Sentinel_2))
 
 Masoumeh Shafieinejad, Xi He, <b>Bailey Kacsmar</b>. <a href="https://www.ndss-symposium.org/wp-content/uploads/usec26-27.pdf">Adopt a PET! An Exploration of PETs, Policy, and Practicalities for Industry in Canada</a>. Symposium on Usable Security and Privacy (USEC 2026). ([Preprint](https://arxiv.org/pdf/2503.03027))
 
