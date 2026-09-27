@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h1> Advising</h1>
-I am currently considering (1 to 2) graduate students to start in September 2027 In particular, if you are interested in research on human-centered design of privacy-preserving machine learning, consider applying through the U of A admissions process. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving machine learning protocols and a bit of applied cryptography. I do not have any openings right now for undergraduate researchers.
+I am currently considering (1 to 2) graduate students to start in September 2027 In particular, if you are interested in research on human-centered design of privacy technologies, consider applying through the U of A admissions process. Projects in this group include human-computer interaction (HCI) studies as well as the design and evaluation of privacy-preserving protocols and a bit of applied cryptography. I do not have any openings right now for undergraduate researchers.
 
 <h1>Frequently Asked Questions</h1>
 <ul>
