@@ -8,6 +8,9 @@ author_profile: true
 
 For information about my research group and what we are all up to, check out our [lab web page](https://pupsresearchlab.github.io/).
 
+![A blue-gray seal holding a pastel rainbow beach ball that says PUPS](https://bkacsmar.github.io/files/2026PUPS_Seal_byAfari.png?raw=true)
+
+
 <!--
 
 
